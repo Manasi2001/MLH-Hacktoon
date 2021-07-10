@@ -3,7 +3,7 @@ Consists of hacks created for the hackathon.
 
 ## 1. Manga Expression Classification
 
-Manga are comics or graphic novels originating from Japan. The term _manga_ is used to refer to both comics and cartooning. These comics are known for the animes that are amazingly potrayed through sketches. This project focuses on highlighing and labelling the expressions of various characters in the comics using Machine Learning!
+Manga are comics or graphic novels originating from Japan. The term _manga_ is used to refer to both comics and cartooning. These comics are known for the anime that are amazingly portrayed through sketches. This project focuses on highlighting and labelling the expressions of various characters in the comics using Machine Learning!
 
 ![manga_3](https://user-images.githubusercontent.com/68627617/125154677-c4dbdb00-e178-11eb-8d61-989b97108659.png)
 
