@@ -1,5 +1,5 @@
 # Hacktoon
-Consists of hacks created for the hackathon.
+All the hacks created for this MLH hackathon.
 
 ## 1. Manga Expression Classification
 
