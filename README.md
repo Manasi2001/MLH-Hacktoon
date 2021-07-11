@@ -10,3 +10,11 @@ Manga are comics or graphic novels originating from Japan. The term _manga_ is u
 Code in action:
 ![manga_1](https://user-images.githubusercontent.com/68627617/125154688-d45b2400-e178-11eb-938e-829e06f89a10.png)
 ![manga_2](https://user-images.githubusercontent.com/68627617/125154691-d6bd7e00-e178-11eb-86c2-be6496b07ed2.png)
+
+## 2. Pooch Pooper
+
+It's a fun project built for dog lovers. You get a chance to take a dog out for a stroll in a virtual garden by using all the arrow keys for moving it around. Whenever you fell that the dog needs to ease itself, just click the 'space' bar and see the magic for yourself!
+
+![useless_hack](https://user-images.githubusercontent.com/68627617/125195638-2765d180-e274-11eb-98de-53ee30e7dc68.png)
+
+Try out the project here: https://scratch.mit.edu/projects/549550363/fullscreen/
